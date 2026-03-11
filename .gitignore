@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Docusaurus build output
+.docusaurus/
+build/
+
+# OS
+.DS_Store
+
+# Env files
+.env
+.env.local
+
+# Superpowers brainstorm files (local only, not part of site)
+.superpowers/
