@@ -1,4 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <rect width="32" height="32" rx="5" fill="#4ade80"/>
-  <text x="16" y="23" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="900" fill="#000000" text-anchor="middle">R</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 416" aria-label="Reflex logo">
+  <path d="M66 260L204 16V167H337L183 400V260H66Z" fill="#33CC84"/>
 </svg>
