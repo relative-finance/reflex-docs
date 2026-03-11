@@ -61,7 +61,7 @@ const config = {
         items: [
           {
             href: 'https://app.reflex.trade',
-            label: 'Launch App ↗',
+            label: 'Launch App',
             position: 'right',
           },
         ],
