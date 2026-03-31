@@ -85,7 +85,7 @@ Reference: [Hyperliquid Exchange Endpoint: approveAgent](https://hyperliquid.git
 
 1. Local/browser key is stored client-side for local execution.
 2. Backend-synced key is stored encrypted (KMS-backed) for backend-triggered actions.
-3. Main wallet private key is never stored by Reflex.
+3. Main wallet private key is never exposed to or stored by Reflex.
 
 ## Common Error Codes
 
