@@ -109,6 +109,7 @@ const sidebars = {
       items: [
         'security/wallet-security',
         'security/api-wallet-and-key-management',
+        'security/agent-wallet-management',
       ],
     },
     {

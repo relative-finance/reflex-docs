@@ -2,6 +2,8 @@
 
 This page explains the key model used for Telegram-enabled trading.
 
+For full operational guidance (sync/rotate/revoke, multi-device behavior, and key-limit handling), see [Agent Wallet Management](./agent-wallet-management.md).
+
 ## API Wallet Role
 
 An API/agent wallet is authorized to place orders for your account context.
